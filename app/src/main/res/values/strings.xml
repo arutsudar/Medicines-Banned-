@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Medicines (Banned)</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="helpText">This app lists out some of the banned medicines, its details and the reason for getting banned.\n\nThe following link shows the complete details of all such drugs.\nhttps://en.wikipedia.org/wiki/List_of_withdrawn_drugs\n</string>
+    <string name="action_settings">Settings</string>
+    <string name="e1">Astemizole and terfinadine \n\nCountry : India.\n\nThey are antihistamines that were used to treat allergies.  They were banned since they could cause a heart condition called polymorphic ventricular tachycardia and even death when used in high doses or with drugs like erythromycin, clarithromycin and  ketoconazole. </string>
+    <string name="e2">Fenfluramine and dexfenfluramine \n\nCountry : India.\n\nThey were used to treat obesity.  They were widely used in slimming centers.  However, they were withdrawn due to reports of diseases of heart valves, fibrosis of the heart and pulmonary hypertension.  The combination of fenfluramine and phenteramine, another weight loss pill was particularly notorious for causing heart valve problems and sudden death. </string>
+    <string name="e3">Gatifloxacin \n\nCountry : India.\n\nIt is an antibiotic whose use as an oral and injectable drug has been recently banned in India.  This is due to its risk for severe hyperglycemia or high blood sugar levels in the elderly. </string>
+    <string name="e4">Phenformin \n\nCountry : India.\n\nIt is an antidiabetic drug similar to metformin.  It has been banned since it carries a high risk of lactic acidosis. </string>
+    <string name="e5">Rimonabant \n\nCountry : India.\n\nIt was particularly effective in causing weight loss.  It inhibited the action of substances called cannabinoids in the brain.  It has been withdrawn due to serious side effects like depression, suicidal tendencies and seizures. </string>
+    <string name="e6">Rofecoxib and valdecoxib \n\nCountry : India.\n\nThey were popular painkillers that were used for arthritis and other painful conditions.  They resulted in pain relief without causing gastric side effects.  However, they were withdrawn due to concerns of heart attack and stroke with their use. </string>
+    <string name="e7">Rosiglitazone \n\nCountry : India.\n\nIt is a drug used in the treatment of type 2 diabetes. It has been banned due to an increased risk of heart attacks. </string>
+    <string name="e8">Sibutramine \n\nCountry : India.\n\nIt is a weight loss pill that has been recently banned since it caused heart related side effects. </string>
+    <string name="e9">Tegaserod \n\nCountry : India.\n\nIt is a drug that is used to treat patients with irritable bowel syndrome with predominantly constipation. It was withdrawn from the market since patients taking this drug showed increased incidence of heart attack and stroke. </string>
+    <string name="e10">Terfenadine (Seldane, Triludan)\n\nWithdrawn year: 1997-1998	\nCountry : France, South Africa, Oman, others, US	\n\nProlonged QT interval; ventricular tachycardia. </string>
+    <string name="e11">Valdecoxib (Bextra)\n\nWithdrawn year: 2004	\nCountry : US	\n\nRisk of heart attack and stroke. </string>
+</resources>

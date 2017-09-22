@@ -1,0 +1,37 @@
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#ff55a1ff"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button
+        android:id="@+id/button01"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="HELP"
+        android:onClick="onHelpButtonClicked"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+    <Button
+        android:id="@+id/button"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="List of Medicines"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:onClick="onButtonClicked"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@id/button01"
+        android:layout_marginBottom="10dp" />
+    <Button
+        android:id="@+id/button03"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="QUIT"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/button01"
+        android:layout_marginTop="10dp"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+</RelativeLayout>
